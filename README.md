@@ -10,6 +10,18 @@
   * C#
   * Markdown (html, java)
 
+## My GitHub Organization
+* ECPTindies
+  * The Original Game Developer Team
+* Horizon Solidarity
+  * Friday Night Funkin' Horizon Engine Developer Team 
+
+## My Project
+* C++ 2D/3D Game Engine
+* Friday Night Funkin Mods/Engine
+  * Horizon Engine
+  * VS IMPOSTOR Zside
+  * Vs.OCstorms
 
 <!---
 youbadao-sussy/youbadao-sussy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
