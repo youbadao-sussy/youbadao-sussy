@@ -10,13 +10,13 @@
   * C#
   * Markdown (html, java)
 
-## My GitHub Organization
+## My GitHub Organizations
 * ECPTindies
   * The Original Game Developer Team
 * Horizon Solidarity
   * Friday Night Funkin' Horizon Engine Developer Team 
 
-## My Project
+## My Projects
 * C++ 2D/3D Game Engine
 * Friday Night Funkin Mods/Engine
   * Horizon Engine
