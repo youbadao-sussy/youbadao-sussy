@@ -4,13 +4,13 @@
 * age: 16
 * gender: Men
 * Native Language: Japanese
-* Studying Program Language:
-  * Haxe
-  * C++
-  * C#
-  * Markdown (html, java)
-* Studying Library:
-  * HaxeFlixel
+* Program Languages that I'm Studying:
+  * Haxe (.hx)
+  * C++ (.cpp/.cc, .h/.hpp/.hh)
+  * C# (.cs/.h)
+  * Markdown (html, java | .md)
+* Libraries that I'm Studying:
+  * HaxeFlixel (flixel)
 
 ## My GitHub Organizations
 * ECPTindies
