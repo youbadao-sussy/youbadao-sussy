@@ -3,12 +3,14 @@
 * name: Youba
 * age: 16
 * gender: Men
-* native_lang: Japanese
-* program_lang_studying:
+* Native Language: Japanese
+* Studying Program Language:
   * Haxe
   * C++
   * C#
   * Markdown (html, java)
+* Studying Library:
+  * HaxeFlixel
 
 ## My GitHub Organizations
 * ECPTindies
