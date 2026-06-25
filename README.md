@@ -1,3 +1,7 @@
+# !!HELP WANTED!!
+* VS IMPOSTOR Zside
+  * Programmer - 1 ~ 2
+
 # My GitHub Header
 ## Profile
 * name: Youba
