@@ -1,6 +1,6 @@
 # <span style="background-color: #ffe6e6; padding: 0.2em;">!!HELP WANTED!!</span>
 * VS IMPOSTOR Zside
-  * Programmer - 1 ~ 2
+  * Source Coder - 1 ~ 2
 
 # My GitHub Header
 ## Profile
