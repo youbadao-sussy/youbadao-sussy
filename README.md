@@ -1,4 +1,4 @@
-# <span style="color: #0000ff;">!!HELP WANTED!!</span>
+# <span style="background-color: #ffe6e6; padding: 0.2em;">!!HELP WANTED!!</span>
 * VS IMPOSTOR Zside
   * Programmer - 1 ~ 2
 
