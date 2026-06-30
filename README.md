@@ -1,9 +1,10 @@
 > [!Important]
 > VS IMPOSTOR Zside Public Repository will coming when v1.1 release.
 
-# !!HELP WANTED!!
-* VS IMPOSTOR Zside
-  * Source Coder - 1 ~ 2
+> [!Caution]
+> # Help Wanted
+> VS IMPOSTOR Zside
+> - Source Programmer
 
 # My GitHub Header
 ## Profile
