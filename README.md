@@ -1,4 +1,7 @@
-# <span style="background-color: #ffe6e6; padding: 0.2em;">!!HELP WANTED!!</span>
+> [!Note]
+> VS IMPOSTOR Zside Public Repository will coming when v1.1 release.
+
+# !!HELP WANTED!!
 * VS IMPOSTOR Zside
   * Source Coder - 1 ~ 2
 
