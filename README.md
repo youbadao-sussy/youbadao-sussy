@@ -1,4 +1,4 @@
-> [!Note]
+> [!Important]
 > VS IMPOSTOR Zside Public Repository will coming when v1.1 release.
 
 # !!HELP WANTED!!
