@@ -6,7 +6,7 @@
 > VS IMPOSTOR Zside
 > - Source Programmer ... 1 ~ 2
 
-# My GitHub Header
+# My GitHub Document
 ## Profile
 * name: Youba
 * age: 16
