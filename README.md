@@ -1,16 +1,14 @@
 # My GitHub Document
 ## Profile
-* name: Youba
-* age: 16
-* gender: Men
+* name: Y²
+* age: 17
 * Native Language: Japanese
-* Program Languages that I'm Studying:
-  * Haxe (.hx)
-  * C++ (.cpp/.cc, .h/.hpp/.hh)
-  * C# (.cs/.h)
-  * Markdown (html, java | .md)
-* Libraries that I'm Studying:
-  * HaxeFlixel (flixel)
+* Using Programming Language
+  * Haxe (Almost Stuff)
+  * C++
+  * C#
+  * GDScript
+  * TypeScript (Tauri)
 
 ## My GitHub Organizations
 * ECPTindies
@@ -19,7 +17,7 @@
   * Friday Night Funkin' Horizon Engine Developer Team 
 
 ## My Projects
-* C++ 2D/3D Game Engine
+* Haxe 2D/3D Game Engine
 * Friday Night Funkin Mods/Engine
   * Horizon Engine
   * VS IMPOSTOR Zside
