@@ -15,7 +15,9 @@
 * nodalyx
   * The IT Developer Team
 * Horizon Solidarity
-  * Friday Night Funkin' Horizon Engine Developer Team 
+  * Friday Night Funkin' Horizon Engine Developer Team
+* The Funkin Zside Team
+  * Friday Night Funkin' Zside Developer Team
 
 ## My Projects
 * Haxe 2D/3D Game Engine
