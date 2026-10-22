@@ -2,22 +2,24 @@
 ## Profile
 * name: Y²
 * age: 17
-* Native Language: Japanese
+* Locale: Japanese
 * Using Programming Language
   * Haxe (Almost Stuff)
   * C++
   * C#
   * GDScript
-  * TypeScript (Tauri)
+  * TypeScript
+
 
 ## My GitHub Organizations
-* ECPTindies
-  * The Original Game Developer Team
+* nodalyx
+  * The IT Developer Team
 * Horizon Solidarity
   * Friday Night Funkin' Horizon Engine Developer Team 
 
 ## My Projects
 * Haxe 2D/3D Game Engine
+* Haxe Software IDE
 * Friday Night Funkin Mods/Engine
   * Horizon Engine
   * VS IMPOSTOR Zside
